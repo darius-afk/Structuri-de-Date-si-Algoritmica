@@ -27,6 +27,5 @@ Teoretic, complexitatea mea este O(n^3), dar am adaugat multe improvizari si ada
 destul de abrut pe acelasi test la doua rulari diferite. mi s a intamplat sa mi ruleze un test in 1.5  secunde la un check iar la altul sa mi dea TLE pe acelasi test).
 
 Problema 5 (Oferta):
-N-am facut bonusul. Creierul meu deja s-a prajit in punctul asta.
 Am venit cu formulele pentru dp[i], oarecum similar cu stilul in care am rezolvat pe 2, dar am folosit programare dinamica: am calculat rezultatul pentru fiecare dp
 Complexitatea este O(N)
