@@ -1,4 +1,4 @@
-Popescu Darius Stefan 324CCb
+[Popescu Darius Stefan 324CCb](https://www.pbinfo.ro/profil/DariusPopescuA)
 
 Problema 1 (servere):
 Am creeat functia calculateMinPower care calculeaza pentru fiecare element din cei doi vectori puterea minima la o valoare data
